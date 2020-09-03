@@ -17,8 +17,7 @@ div.about{
 
 /** TEXT STYLING*/
 div.text{
-    width: auto;
-    max-width: 85%;
+    width: 85%;
 }
 h1{
    
